@@ -1,9 +1,9 @@
 Hope Pig
 ===========================
 
->> android API 18/21 version(4.3/5.0) app on branch android
++ android API 18/21 version(4.3/5.0) app on branch android
 
->> iphone latest app on branch ios
++ iphone latest app on branch ios
 
 Apps made with RubyMotion
 
