@@ -1,9 +1,10 @@
-Hope Pig
+Hope Pig htttp://hopepig.com
 ===========================
+There are 2 branches for HopePig apps for
 
-+ android API 18/21 version(4.3/5.0) app on branch android
++ android API 18/21 versions (4.3/5.0) app on _branch android_
 
-+ iphone latest app on branch ios
++ iphone latest app on _branch ios_
 
 Apps made with RubyMotion
 
