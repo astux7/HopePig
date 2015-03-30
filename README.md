@@ -1,6 +1,7 @@
-==Hope Pig==
+Hope Pig
+===========================
 
->> android 18/21 version app on branch android
+>> android API 18/21 version(4.3/5.0) app on branch android
 
 >> iphone latest app on branch ios
 
